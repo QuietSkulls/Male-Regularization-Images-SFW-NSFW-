@@ -1,5 +1,5 @@
 # Male-Regularization-Images-SFW-NSFW-
-I was tired of seeing mostly female-focus Loras and models, so I wanted to challenge myself and create AI male models Loras. I've ensured that all images feature only real male subjects and include detailed captions for enhanced learning and accuracy. 
+I was tired of seeing mostly female-focus Loras and models, so I wanted to challenge myself and create AI male-focus Loras using regularization images. I've ensured that all images feature only real male subjects and include detailed captions for enhanced learning and accuracy. 
 
 What's included in the zip:
 A comprehensive collection of over 250 regularization images and their corresponding detailed captions focused on:
